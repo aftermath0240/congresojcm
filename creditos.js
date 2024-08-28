@@ -199,7 +199,7 @@ document.addEventListener('DOMContentLoaded', function () {
     styleElement.textContent = styles;
     document.head.appendChild(styleElement);
 
-    document.title = 'Creditos - Congreso Filosofía';
+    document.title = 'Creditos - Congreso Filosofia';
 
     const content = `
     <div class="banner">

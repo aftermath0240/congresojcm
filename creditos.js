@@ -220,9 +220,9 @@ document.addEventListener('DOMContentLoaded', function () {
         <div class="credit-item">
           <h2>Organizadores</h2>
           <ul>
-            <li>Nombre del Organizador 1</li>
-            <li>Nombre del Organizador 2</li>
-            <li>Nombre del Organizador 3</li>
+            <li>I. E. Jose Celestino Mutis</li>
+            <li>Docente. Maria Ines Castellanos Fajardo (Filosofia)</li>
+            <li>Grado 11 - Promocion 2024 "Niksen"</li>
           </ul>
         </div>
         <div class="credit-item">
@@ -255,9 +255,8 @@ document.addEventListener('DOMContentLoaded', function () {
         <div class="credit-item">
           <h2>Colaboradores</h2>
           <ul>
-            <li>Nombre del Colaborador 1</li>
-            <li>Nombre del Colaborador 2</li>
-            <li>Nombre del Colaborador 3</li>
+            <li>Miguel Angel Osorio Orduz</li>
+            <li>Juan Camilo Arciniegas Medina</li>
           </ul>
         </div>
         <div class="credit-item">

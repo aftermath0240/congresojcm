@@ -204,13 +204,14 @@ document.addEventListener('DOMContentLoaded', function () {
     const content = `
     <div class="banner">
       <div class="navbar">
-        <img src="pixelcut-export-removebg-preview.png" class="logo" alt="Logo del Congreso de Filosofía">
+        <img src="pixelcut-export-removebg-preview.png" class="logo" alt="Logo del Congreso de Filosofï¿½a">
         <ul>
           <li><a href="index.html">Inicio:</a></li>
           <li><a href="111.html">11-1</a></li>
           <li><a href="112.html">11-2</a></li>
           <li><a href="113.html">11-3</a></li>
           <li><a href="creditos.html">Creditos</a></li>
+          <li><a href="https://drive.google.com/drive/folders/1b8CJTaGyj-tIiHwTdqABQcJTGUoBbHoD?usp=sharing">Registro</a></li>
         </ul>
       </div>
     </div>
@@ -251,12 +252,21 @@ document.addEventListener('DOMContentLoaded', function () {
               <a href="#">Nombre del Ponente 3</a>
             </div>
           </div>
+          <div class="dropdown">
+            <button class="dropbtn">Ponentes Invitados</button>
+            <div class="dropdown-content">
+              <a href="#">Nombre del Ponente 1</a>
+              <a href="#">Nombre del Ponente 2</a>
+              <a href="#">Nombre del Ponente 3</a>
+            </div>
+          </div>
         </div>
         <div class="credit-item">
           <h2>Colaboradores</h2>
           <ul>
             <li>Miguel Angel Osorio Orduz</li>
             <li>Juan Camilo Arciniegas Medina</li>
+            <li>Miguel Angel Neira Martinez</li>
           </ul>
         </div>
         <div class="credit-item">

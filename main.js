@@ -214,7 +214,8 @@
         { href: '111.html', text: '11-1' },
         { href: '112.html', text: '11-2' },
         { href: '113.html', text: '11-3' },
-        { href: 'creditos.html', text: 'Creditos' }
+        { href: 'creditos.html', text: 'Creditos' },
+        { href: 'https://drive.google.com/drive/folders/1b8CJTaGyj-tIiHwTdqABQcJTGUoBbHoD?usp=sharing', text: 'Registros'},
     ].forEach(item => {
         const li = document.createElement('li');
         const a = document.createElement('a');
@@ -231,7 +232,7 @@
     content.className = 'content';
 
     const h1 = document.createElement('h1');
-    h1.innerHTML = 'CONGRESO FILOSOFÍA: RAZONAMIENTO VS <br> INTELIGENCIA ARTIFICIAL';
+    h1.innerHTML = 'XI CONGRESO FILOSOFÍA: RAZONAMIENTO VS <br> INTELIGENCIA ARTIFICIAL';
     content.appendChild(h1);
 
     const p = document.createElement('p');
@@ -244,7 +245,8 @@
     const navbar2List = document.createElement('ul');
     [
         { href: 'https://drive.google.com/drive/folders/17Fdpe-9nqyC9dAkadqaYwtVaiaplSm-x?usp=sharing', text: 'PONENCIAS' },
-        { href: '#', text: 'CERTIFICADOS' }
+        { href: '#', text: 'CERTIFICADOS' },
+        { href: 'https://drive.google.com/drive/folders/1b8CJTaGyj-tIiHwTdqABQcJTGUoBbHoD?usp=sharing', text: 'REGISTRO'},
     ].forEach(item => {
         const li = document.createElement('li');
         if (item.href) {

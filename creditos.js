@@ -231,33 +231,36 @@ document.addEventListener('DOMContentLoaded', function () {
           <div class="dropdown">
             <button class="dropbtn">Ponentes: 11-1</button>
             <div class="dropdown-content">
-              <a href="#">Nombre del Ponente 1</a>
-              <a href="#">Nombre del Ponente 2</a>
-              <a href="#">Nombre del Ponente 3</a>
+              <a href="#">Mariana Hernandes Rosas</a>
+              <a href="#">Maria Valentina Mendez</a>
             </div>
           </div>
           <div class="dropdown">
             <button class="dropbtn">Ponentes: 11-2</button>
             <div class="dropdown-content">
-              <a href="#">Nombre del Ponente 1</a>
-              <a href="#">Nombre del Ponente 2</a>
-              <a href="#">Nombre del Ponente 3</a>
+              <a href="#">Juan David Fuentes</a>
+              <a href="#">Ana Maria Gamboa</a>
+              <a href="#">Edward Orlando Mogollon</a>
+              <a href="#">Maria Fernanda Giraldo</a>
             </div>
           </div>
           <div class="dropdown">
             <button class="dropbtn">Ponentes: 11-3</button>
             <div class="dropdown-content">
-              <a href="#">Nombre del Ponente 1</a>
-              <a href="#">Nombre del Ponente 2</a>
-              <a href="#">Nombre del Ponente 3</a>
+              <a href="#">Natalia Rodriguez</a>
             </div>
           </div>
           <div class="dropdown">
             <button class="dropbtn">Ponentes Invitados</button>
             <div class="dropdown-content">
-              <a href="#">Nombre del Ponente 1</a>
-              <a href="#">Nombre del Ponente 2</a>
-              <a href="#">Nombre del Ponente 3</a>
+              <a href="#">Prescolar: Gabriel y Gabriela</a>
+              <a href="#">5: Diego Andres Quintana y <br> Joseph Esteban Castro Maldonado</a>
+              <a href="#">6: Mariana Santander y<br> Esteban Martinez</a>
+              <a href="#">Profesora: Sandra Luz Paez</a>
+              <a href="#">IE Damazo Zapata Tecnologico: <br> Jefferson Dario Sarmiento</a>
+              <a href="#">6. Mariana Niño Zuluaga</a>
+              <a href="#">IE Vicente Azuero: <br> Andres Felipe Rojas Cardenas y <br> Juan Diego Tamy Alzate</a>
+              <a href="#">Padres de Familia: Johana Giraldo</a>
             </div>
           </div>
         </div>
@@ -272,12 +275,28 @@ document.addEventListener('DOMContentLoaded', function () {
         <div class="credit-item">
           <h2>Agradecimientos Especiales</h2>
           <ul>
-            <li>Nombre de la Institucion 1</li>
-            <li>Nombre de la Institucion 2</li>
-            <li>Nombre del Patrocinador 1</li>
+            <li>Doctor: Luis Fernando Arévalo</li>
+            <li>Rectora: Dalhi Esperanza Ortega</li>
+            <li>Licenciada: Medarda Lozano</li>
+            <li>Exalumno: Camilo Murcia</li>
+            <li>Estudiantes colegios Invitados.</li> 
           </ul>
         </div>
-      </div>
+        <div class="credit-item">
+          <h2>Invitados</h2>
+          <ul>
+            <li>Universidad Industrial de Santander</li>
+            <li>Colegio Tecnologico Damazo Zapata</li>
+            <li>Colegio Trinidad Camacho Pinzón Cite Santader</li>
+            <li>Colegio Vicente Azuero de Floridablanca Santander</li>
+            <li>Colegio Comfenalco Bucaramanga</li>
+            <li>Maestros</li>
+            <li>Padres de Familia</li>
+            <li>Exalumnos Jose Celestino Mutis</li>
+            <li>Compañeros IEJCM</li>
+          </ul>
+        </div>
+      </div>  
       <div class="credit-item">
         <h2>Redes Sociales</h2>
         <div class="social-media">

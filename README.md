@@ -19,6 +19,7 @@ Este proyecto tiene dos programadores detras, de cuyos nombres:
 
 **-   Juan Camilo Arciniegas Medina**
 
+**-   Miguel Ángel Neira Martínez**
 ## Nuevos Avances
 
 Agregamos carpetas de cada estudiante (falta carpetas de estudiantes de 11-3).
